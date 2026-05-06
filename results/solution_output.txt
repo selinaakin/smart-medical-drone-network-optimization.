@@ -1,4 +1,0 @@
-Shortest Path:
-Main Medical Distribution Center -> Drone Charging Station - Besiktas -> Hospital B - Uskudar -> Emergency Coordination Center -> Hospital D - Fatih
-
-Minimum Travel Time: 18 minutes
